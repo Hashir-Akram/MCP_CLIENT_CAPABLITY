@@ -1,0 +1,4 @@
+fastmcp==4.0.11
+mcp==2.3.0
+groq==0.31.1
+python-dotenv==1.1.1

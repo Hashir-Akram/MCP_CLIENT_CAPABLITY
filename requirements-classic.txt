@@ -1,0 +1,8 @@
+# CLASSIC environment (must be separate: these versions conflict with requirements.txt)
+# Covers: Module 4 demo files 01, 02, 03 (Roots, Sampling, Elicitation) including MCP-USE.
+# groq: used by Module-4_Sampling/demo/06_sampling_client_classic_groq.py (real-model sampling demo).
+fastmcp==3.4.8
+mcp==1.30.0
+mcp-use==1.7.1
+groq==0.31.1
+python-dotenv==1.1.1

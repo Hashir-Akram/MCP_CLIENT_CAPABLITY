@@ -1,0 +1,2 @@
+2026-10-04 08:55:02 INFO  auth-service  login user=asha
+2026-10-04 08:59:31 WARN  auth-service  failed-login user=ravi attempts=3

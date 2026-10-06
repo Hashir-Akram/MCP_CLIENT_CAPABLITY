@@ -1,0 +1,2 @@
+v2.4.0 - Added dark mode, fixed invoice rounding bug.
+v2.3.2 - Security patch for session cookies.

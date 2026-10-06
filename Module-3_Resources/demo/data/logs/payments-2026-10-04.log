@@ -1,0 +1,3 @@
+2026-10-04 09:01:12 INFO  payment-service  order=1001 status=OK
+2026-10-04 09:03:44 WARN  payment-service  order=1002 retry=1 gateway-slow
+2026-10-04 09:07:09 ERROR payment-service  order=1003 gateway-timeout

@@ -1,0 +1,5 @@
+INC-204  | Severity: HIGH | Service: payments
+09:07 gateway-timeout on order=1003
+09:12 retry storm: 240 failed calls in 5 min
+09:20 on-call restarted payment-worker; errors stopped
+09:45 root cause suspected: gateway TLS certificate rotation

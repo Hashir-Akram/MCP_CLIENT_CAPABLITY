@@ -1,0 +1,7 @@
+# MAIN environment ("modern")
+# Covers: Module 3 (Resources, Prompts, both versions) and Module 4 modern demos (files 04 and 05).
+# groq: used by Module-4_Sampling/demo/07_sampling_client_modern_groq.py (real-model sampling demo).
+fastmcp==4.0.11
+mcp==2.3.0
+groq==0.31.1
+python-dotenv==1.1.1
